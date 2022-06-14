@@ -1,0 +1,19 @@
+<div class="modal fade" tabindex="-1" role="dialog" id="modalExcluir">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Confirma a Exclusão</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Texto do corpo do modal, é aqui.</p>
+            </div>
+            <div class="modal-footer">
+                <button id="btnModalSim" type="button" class="btn btn-success">Sim</button>
+                <button id="btnModalNao" type="button" class="btn btn-danger" data-dismiss="modal">Não</button>
+            </div>
+        </div>
+    </div>
+</div>
